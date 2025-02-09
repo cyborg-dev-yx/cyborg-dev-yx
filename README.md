@@ -15,12 +15,6 @@ Welcom to my profile.<br>
 
 
 
-
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
-  -->
- 
-<!--  ![Language Counts](https://github-readme-stats.vercel.app/api/top-langs/?username=kd-here&layout=compact&exclude_repo=Machine-Learning,Machine-Learning_Modules,AutonomousCar)
-<!-- Here exclude repo is for hiding the repo count so add which you want to hide  -->
  
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cyborg-dev-yx&theme=radical&hide_border=true&border_radius=3.8)]()
 
